@@ -5,8 +5,8 @@
 package Pratikum_230424;
 
 /**
- *
- * @author Afdila Sandi
+ * 
+ * @author Afdila Sandi Tk 1-A
  */
 public class Employee extends Person{
     public String getName(){
